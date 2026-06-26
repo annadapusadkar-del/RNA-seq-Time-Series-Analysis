@@ -1,4 +1,4 @@
-# RNA-seq-Time-Series-Analysis
+# Time-Series-Analysis-of-cell-growth-of-infection-progression
 Time-series analysis of RNA-seq gene expression data using python, pandas, machine learning and Bioinformatics tools.
 ## About
 This project analyzes RNA-seq gene expression data from the GSE172450 dataset using python and bioinformatics tools.
